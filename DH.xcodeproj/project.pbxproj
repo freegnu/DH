@@ -43,24 +43,24 @@
 		4AFB7CB1160B18FE00041E70 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		4AFB7CB3160B18FE00041E70 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		4AFB7CB5160B18FE00041E70 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
-		4AFB7CB9160B18FE00041E70 /* DH-Info.plist */ = {isa = PBXFileReference; path = "DH-Info.plist"; sourceTree = "<group>"; };
+		4AFB7CB9160B18FE00041E70 /* DH-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "DH-Info.plist"; sourceTree = "<group>"; };
 		4AFB7CBB160B18FE00041E70 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		4AFB7CBD160B18FE00041E70 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		4AFB7CBF160B18FE00041E70 /* DH-Prefix.pch */ = {isa = PBXFileReference; path = "DH-Prefix.pch"; sourceTree = "<group>"; };
-		4AFB7CC0160B18FE00041E70 /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		4AFB7CBF160B18FE00041E70 /* DH-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DH-Prefix.pch"; sourceTree = "<group>"; };
+		4AFB7CC0160B18FE00041E70 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		4AFB7CC1160B18FE00041E70 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		4AFB7CC4160B18FF00041E70 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPhone.storyboard; sourceTree = "<group>"; };
 		4AFB7CC7160B18FF00041E70 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard_iPad.storyboard; sourceTree = "<group>"; };
 		4AFB7CCA160B18FF00041E70 /* DH.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = DH.xcdatamodel; sourceTree = "<group>"; };
-		4AFB7CCC160B18FF00041E70 /* MasterViewController.h */ = {isa = PBXFileReference; path = MasterViewController.h; sourceTree = "<group>"; };
+		4AFB7CCC160B18FF00041E70 /* MasterViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MasterViewController.h; sourceTree = "<group>"; };
 		4AFB7CCD160B18FF00041E70 /* MasterViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MasterViewController.m; sourceTree = "<group>"; };
-		4AFB7CCF160B18FF00041E70 /* DetailViewController.h */ = {isa = PBXFileReference; path = DetailViewController.h; sourceTree = "<group>"; };
+		4AFB7CCF160B18FF00041E70 /* DetailViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
 		4AFB7CD0160B18FF00041E70 /* DetailViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
 		4AFB7CD7160B190000041E70 /* DHTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DHTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4AFB7CD8160B190000041E70 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		4AFB7CE1160B190000041E70 /* DHTests-Info.plist */ = {isa = PBXFileReference; path = "DHTests-Info.plist"; sourceTree = "<group>"; };
+		4AFB7CE1160B190000041E70 /* DHTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "DHTests-Info.plist"; sourceTree = "<group>"; };
 		4AFB7CE3160B190000041E70 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		4AFB7CE5160B190000041E70 /* DHTests.h */ = {isa = PBXFileReference; path = DHTests.h; sourceTree = "<group>"; };
+		4AFB7CE5160B190000041E70 /* DHTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DHTests.h; sourceTree = "<group>"; };
 		4AFB7CE6160B190000041E70 /* DHTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DHTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
